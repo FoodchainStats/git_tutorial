@@ -5,6 +5,6 @@ The tutorial is an html based slidy presentation made using R Markdown. It has b
 
 You can download the tutorial with this link:
 <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/master/git_tutorial.html">Download</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/git_tutorial.html">Download</a>
       </div>
 
